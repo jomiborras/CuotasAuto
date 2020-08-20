@@ -3,3 +3,6 @@ pip install docx
 pip install pandas
 pip install numpy
 pip install os
+
+----
+pip install xlrd
